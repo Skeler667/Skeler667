@@ -1,8 +1,9 @@
 <a align="center" href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&duration=2000&pause=500&color=550D1C&background=FF000000&center=true&width=435&height=60&lines=Junior+frontend+developer" alt="Typing SVG" /></a>
 
 ## Contacts: 
-Telegram: https://t.me/LongTime667
-Mail.ru: serzh_frontend@mail.ru
+[Telegram](https://t.me/LongTime667)
+
+serzh_frontend@mail.ru
 
 ## Stack:
 ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white)
