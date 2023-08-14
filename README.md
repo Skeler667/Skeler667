@@ -1,4 +1,4 @@
-<a align="center" href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&duration=2000&pause=500&color=550D1C&background=FF000000&center=true&width=435&height=60&lines=Junior+frontend+developer" alt="Typing SVG" /></a>
+<a align="center" href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&duration=1000&pause=500&color=550D1C&background=FF000000&center=true&width=435&height=60&lines=Junior+frontend+developer" alt="Typing SVG" /></a>
 
 ## Contacts: 
 [Telegram](https://t.me/LongTime667)
